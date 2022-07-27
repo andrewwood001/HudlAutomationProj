@@ -8,7 +8,7 @@ This is a collection of tests written by Andrew Wood in the Python language usin
 This script was built with PyCharm Community Edition 2022.1.4: [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 # Installation & Operation
-1. Clone the GitHub Repository (git clone https://github.com/andrewwood001/HudlAutomationProj.git), or download directly from the link [SSH Download](https://github.com/andrewwood001/HudlAutomationProj.git)
+1. Clone the GitHub Repository (git clone https://github.com/andrewwood001/HudlAutomationProj.git), or download directly from the link [HTTPS Download Link](https://github.com/andrewwood001/HudlAutomationProj.git)
 2. Open the file "Andrew_Test_Hudl_Login.py" with PyCharm Community Edition
 
 3. Install the required packages to run the automation scripts. Click on File > Settings > Project: Downloads (left-hand column) > Python Interpreter > + (Plus Sign):
