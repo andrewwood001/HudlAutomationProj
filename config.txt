@@ -1,2 +1,0 @@
-USERNAME=(Enter user name here)
-PASSWORD=(Enter Password here)
